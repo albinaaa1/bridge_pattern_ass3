@@ -4,7 +4,6 @@
 * **Group:** SE-2527
 * **Topic:** Option B — Notifications
 * **Repository URL:** https://github.com/albinaaa1/bridge_pattern_ass3
-* **Base Commit Hash:** `a1b2c3d4e5f67890123456789abcdef012345678` *(замените на ваш реальный commit hash)*
 
 ---
 
